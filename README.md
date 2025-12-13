@@ -16,6 +16,7 @@ Data Storytelling
 - Excel (Pivot Tables, Power Query, Dashboards)
 - Power BI (DAX, Data Modeling, Interactive Reports)
 - Google Sheets
+
 ## Project
 ### Project Performance and Sales Insight for Ongoing Real Estate Project
  Spreadsheet | Pivot Table | Dashboard  
@@ -37,9 +38,35 @@ Management needed visibility into sales performance, lead quality, marketing ROI
 
 ## Experience
 
-## Education
+**Business Intelligence Officer – Investment Advisory**  
+
+*Deluxe Residences*
+
+- Analyzed sales and investment data to support decision-making
+- Prepared reports and performance summaries for management
+- Supported successful property sales through data-backed insights
+- Worked closely with sales and marketing teams
+
+**Freelance Real Estate Consultant & Data Analyst**
+
+- Analyzed real estate sales, inquiry, and marketing data
+- Built dashboards to track KPIs and performance
+- Supported pricing, marketing, and sales strategy decisions
+
+## Education & Continuous Learning
+**B.sc Medical Anatomy**
+Cross River University of Technology, Nigeria.
+**Data Analysis (Self-Directed & Project-Based Learning)**
+- Python for Data Analysis
+- Excel for Business & Analytics
+- Power BI & Tableau
+- SQL (basic understanding – ongoing learning)
 
 ## Certificate
+CERTIFICATION (IN PROGRESS)
+- Google Data Analytics (In-view)
 
 ## Contact
-
+- **Email:** veravinesate@email.com  
+- **LinkedIn:** https://www.linkedin.com/in/vera-esate/ 
+- **GitHub:** github.com/EsateVera 
