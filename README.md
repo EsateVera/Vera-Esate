@@ -2,7 +2,7 @@
 ## About Me
 I am Vera Esate, a data analyst with hands on experiences using Google sheet, excel, power BI and Python to analyse business data. With a profesional background in real estate, investment advisory and business intelligence, I approach Data with a strong business and revenue-focused mindset.
 
-📍 Nigeria | 🌍 Open to **Remote Data Analyst Roles (US / UK / EU)**
+📍 Nigeria | 🌍 Open to **Remote Data Analyst Roles** 🌍
 
 ## Skills
 Data Cleaning & Preparation
