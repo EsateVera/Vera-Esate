@@ -1,6 +1,7 @@
 # Data Analyst| Business Intelligence
 ## About Me
 I am Vera Esate, a data analyst with hands on experiences using Google sheet, excel, power BI and Python to analyse business data. With a profesional background in real estate, investment advisory and business intelligence, I approach Data with a strong business and revenue-focused mindset.
+
 📍 Nigeria | 🌍 Open to **Remote Data Analyst Roles (US / UK / EU)**
 
 ## Skills
@@ -31,6 +32,7 @@ Management needed visibility into sales performance, lead quality, marketing ROI
 - Identified top-performing marketing channels  
 - Identify projects that generated good revenue 
 - Provided actionable recommendations to improve revenue
+  
 [View Project Repository →](https://github.com/EsateVera/Performances_and_sales_insights.git)
 
 ## Experience
