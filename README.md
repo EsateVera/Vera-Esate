@@ -56,7 +56,8 @@ Management needed visibility into sales performance, lead quality, marketing ROI
 ## Education & Continuous Learning
 **B.sc Medical Anatomy**
 Cross River University of Technology, Nigeria.
-**Data Analysis (Self-Directed & Project-Based Learning)**
+
+**Data Analysis (Project-Based Learning & Google Data Analytics)**
 - Python for Data Analysis
 - Excel for Business & Analytics
 - Power BI & Tableau
