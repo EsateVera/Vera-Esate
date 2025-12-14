@@ -34,7 +34,7 @@ Management needed visibility into sales performance, lead quality, marketing ROI
 - Identify projects that generated good revenue 
 - Provided actionable recommendations to improve revenue
   
-[View Project Repository →](https://github.com/EsateVera/Performances_and_sales_insights.git)
+[View Project →](https://github.com/EsateVera/Performances_and_sales_insights.git)
 
 ## Experience
 
