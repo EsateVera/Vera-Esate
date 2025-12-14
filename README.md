@@ -38,20 +38,30 @@ Management needed visibility into sales performance, lead quality, marketing ROI
 
 ## Experience
 
-**Business Intelligence Officer – Investment Advisory**  
+**Investment Advisory/Sales**
 
-*Deluxe Residences*
+*Vinsluxury Properties*
 
 - Analyzed sales and investment data to support decision-making
 - Prepared reports and performance summaries for management
 - Supported successful property sales through data-backed insights
 - Worked closely with sales and marketing teams
+  *Achievement*
+   - Increase Sales by 27%
+   - Increase client base while maintaining relationship with existing cLient
+   - Help management make better business decisions.
 
-**Freelance Real Estate Consultant & Data Analyst**
+**Business Intelligence/Data Analyst**  
+
+*Deluxe Residences*
 
 - Analyzed real estate sales, inquiry, and marketing data
 - Built dashboards to track KPIs and performance
 - Supported pricing, marketing, and sales strategy decisions
+  *Achievement*
+   - Effective Recommendation: Sales increase by follow-up and conversion of lead interested to sales.
+   - Help Sales and Marketing team see areas of improvement.
+   - Help management make better business decisions
 
 ## Education & Continuous Learning
 **B.sc Medical Anatomy**
