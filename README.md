@@ -59,7 +59,7 @@ Management needed visibility into sales performance, lead quality, marketing ROI
 - Built dashboards to track KPIs and performance
 - Supported pricing, marketing, and sales strategy decisions
   *Achievement*
-   - Effective Recommendation: Sales increase by follow-up and conversion of lead interested to sales.
+   - Effective Recommendation - Sales increases by 20% with sales staff effectively following up on interested leads.
    - Help Sales and Marketing team see areas of improvement.
    - Help management make better business decisions
 
