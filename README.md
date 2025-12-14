@@ -57,7 +57,7 @@ Management needed visibility into sales performance, lead quality, marketing ROI
 **B.sc Medical Anatomy**
 Cross River University of Technology, Nigeria.
 
-**Data Analysis (Project-Based Learning & Google Data Analytics)**
+**Data Analysis (Project-Based Learning) & Google Data Analytic Coursera**
 - Python for Data Analysis
 - Excel for Business & Analytics
 - Power BI & Tableau
